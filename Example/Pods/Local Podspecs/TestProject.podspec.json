@@ -1,0 +1,22 @@
+{
+  "name": "TestProject",
+  "version": "0.1.0",
+  "summary": "A short description of TestProject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/qushiyao/TestProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qushiyao": "a861072419a@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/qushiyao/TestProject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestProject/Classes/**/*"
+}
